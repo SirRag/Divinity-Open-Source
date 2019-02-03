@@ -1,0 +1,4 @@
+author = SirRagnarok
+version = 0.1
+displayName = Divinity
+homepage = https://forums.terraria.org/index.php?threads/the-divinity-mod.71059/
